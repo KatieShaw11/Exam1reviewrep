@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8319094B-B7B1-4DAE-804B-9AF2073BA641</string>
+	<key>IDESourceControlProjectName</key>
+	<string>exam1review</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31878119-715E-4C87-9E95-3780408BE772</key>
+		<string>https://github.com/KatieShaw11/COMP-SCI-172-review.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>exam1review/exam1review.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31878119-715E-4C87-9E95-3780408BE772</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KatieShaw11/COMP-SCI-172-review.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31878119-715E-4C87-9E95-3780408BE772</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31878119-715E-4C87-9E95-3780408BE772</string>
+			<key>IDESourceControlWCCName</key>
+			<string>COMP SCI 172</string>
+		</dict>
+	</array>
+</dict>
+</plist>
